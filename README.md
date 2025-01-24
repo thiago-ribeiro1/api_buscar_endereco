@@ -31,7 +31,7 @@ Este projeto é uma aplicação que consome a API ViaCEP para buscar informaçõ
 1. Clone este repositório:
    ```bash
    git clone https://github.com/thiago-ribeiro1/api_buscar_endereco.git
-   cd api-cep
+   cd api_buscar_endereco
    ```
 
 2. Compile e execute o projeto Spring Boot:
