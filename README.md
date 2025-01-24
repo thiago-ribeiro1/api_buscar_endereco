@@ -63,7 +63,7 @@ Este projeto é uma aplicação que consome a API ViaCEP para buscar informaçõ
 
 ### Passos para executar o frontend:
 
-1. Com o projeto backend em execução, abra o arquivo `angular-endereco.html` em um navegador.
+1. Com o projeto backend em execução, abra o arquivo `angular_viacep.html` em um navegador.
 2. Insira o CEP no campo do formulário e clique no botão "Buscar Endereço".
 3. As informações retornadas pelo backend serão exibidas na tela, e os dados serão salvos no banco H2 automaticamente.
 
