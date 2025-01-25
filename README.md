@@ -25,6 +25,20 @@ Este projeto é uma aplicação que consome a API ViaCEP para buscar informaçõ
 - **JDK 17** (Java Development Kit versão 17).
 - **Maven** para gerenciar dependências e executar o projeto.
 - Navegador para acessar o frontend e o console H2.
+  
+---
+
+## Configuração para IntelliJ IDEA (Lombok)
+
+Para que o Lombok funcione corretamente no IntelliJ IDEA, é necessário ativar o processamento de anotações. Siga os passos abaixo:
+
+1. Abra as configurações do IntelliJ IDEA:
+   - No menu, clique em **File > Settings** (ou **Ctrl+Alt+S** no Windows/Linux, **Command+,** no macOS).
+2. Navegue até **Build, Execution, Deployment > Compiler > Annotation Processors**.
+3. Certifique-se de que as seguintes opções estão habilitadas:
+   - **Enable annotation processing**
+   - **Obtain processors from project classpath**
+4. Clique em **Apply** e depois em **OK** para salvar as configurações.
 
 ### Passos para executar o backend:
 
