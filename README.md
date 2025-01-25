@@ -1,4 +1,4 @@
-# Buscar Endereço
+# Buscar Endereço (API ViaCEP)
 
 Este projeto é uma aplicação que consome a API ViaCEP para buscar informações de endereço a partir de um CEP informado. O backend utiliza Spring Boot com banco de dados H2 para salvar automaticamente os dados retornados pela API, enquanto o frontend permite consultas em uma página criada com AngularJS.
 
