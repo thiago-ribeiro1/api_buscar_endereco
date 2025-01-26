@@ -2,9 +2,9 @@
 
 Este projeto é uma aplicação que consome a API ViaCEP para buscar informações de endereço a partir de um CEP informado. O backend utiliza Spring Boot com banco de dados H2 para salvar automaticamente os dados retornados pela API, enquanto o frontend permite consultas em uma página criada com AngularJS.
 
-![Image](https://github.com/user-attachments/assets/df8386ef-f719-4faf-a3d7-a19943a96194)
+![Image](https://github.com/user-attachments/assets/ce4fac62-de21-41fb-bab4-4524b832954c)
 
-![Image](https://github.com/user-attachments/assets/77d80d2d-8d88-4e1d-9f08-abace3163260)
+![Image](https://github.com/user-attachments/assets/81e01439-f851-4894-892e-e4b9cd31f6bb)
 
 ---
 
